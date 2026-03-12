@@ -1,0 +1,14 @@
+nft-mint-contract
+│
+├── contracts
+│   └── NFT.sol
+│
+├── scripts
+│   └── deploy.js
+│
+├── test
+│   └── nft-test.js
+│
+├── package.json
+│
+└── README.md
